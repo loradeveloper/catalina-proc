@@ -39,9 +39,9 @@ pip install dlib
 pip install mtcnn
 
 Если вы используете Anaconda, установите их с помощью команд conda:
-conda install -c conda-forge opencv
-conda install -c menpo dlib
-conda install -c conda-forge mtcnn
+   conda install -c conda-forge opencv
+   conda install -c menpo dlib
+   conda install -c conda-forge mtcnn
  Для более подробной информации вы можете перейти по ссылкам, которые представлены ниже:
 https://mikhailaleksseev.medium.com/detect-landmarks-using-python-opencv-and-dlib-12996eee4ed1
 https://arxiv.org/abs/1604.02878
